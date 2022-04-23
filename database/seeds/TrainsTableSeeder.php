@@ -17,7 +17,7 @@ class TrainsTableSeeder extends Seeder
     {
         
         // Ciclo per creare 20 volte un nuovo treno
-        for ($i=0; $i < 20; $i++) { 
+        for ($i=0; $i < 100; $i++) { 
             
             // Creo un nuovo treno
             $train = new Train ();
