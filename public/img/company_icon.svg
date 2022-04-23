@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M344 56H360V96H344V56Z" fill="#4D5D7A"/>
+<path d="M424 56H440V96H424V56Z" fill="#4D5D7A"/>
+<path d="M304 496V128H480V496" fill="#3D98F7"/>
+<path d="M352 448H432V496H352V448Z" fill="#F5B953"/>
+<path d="M208 336H304V496H208V336Z" fill="#2B74CA"/>
+<path d="M32 496V248H208V496" fill="#3D98F7"/>
+<path d="M336 192H368V224H336V192Z" fill="white"/>
+<path d="M416 192H448V224H416V192Z" fill="white"/>
+<path d="M336 256H368V288H336V256Z" fill="white"/>
+<path d="M416 256H448V288H416V256Z" fill="white"/>
+<path d="M336 320H368V352H336V320Z" fill="white"/>
+<path d="M416 320H448V352H416V320Z" fill="white"/>
+<path d="M336 384H368V416H336V384Z" fill="white"/>
+<path d="M416 384H448V416H416V384Z" fill="white"/>
+<path d="M64 280H96V312H64V280Z" fill="white"/>
+<path d="M144 280H176V312H144V280Z" fill="white"/>
+<path d="M64 344H96V376H64V344Z" fill="white"/>
+<path d="M144 344H176V376H144V344Z" fill="white"/>
+<path d="M64 408H96V440H64V408Z" fill="white"/>
+<path d="M144 408H176V440H144V408Z" fill="white"/>
+<path d="M320 128V96H464V128" fill="#F5B953"/>
+<path d="M48 248V216H192V248" fill="#F5B953"/>
+<path d="M352 64C360.837 64 368 53.2548 368 40C368 26.7452 360.837 16 352 16C343.163 16 336 26.7452 336 40C336 53.2548 343.163 64 352 64Z" fill="#669E4F"/>
+<path d="M432 64C440.837 64 448 53.2548 448 40C448 26.7452 440.837 16 432 16C423.163 16 416 26.7452 416 40C416 53.2548 423.163 64 432 64Z" fill="#669E4F"/>
+<path d="M8 488H504V504H8V488Z" fill="#4D5D7A"/>
+<path d="M232 360H248V376H232V360Z" fill="white"/>
+<path d="M264 360H280V376H264V360Z" fill="white"/>
+<path d="M232 392H248V408H232V392Z" fill="white"/>
+<path d="M264 392H280V408H264V392Z" fill="white"/>
+<path d="M232 424H248V440H232V424Z" fill="white"/>
+<path d="M264 424H280V440H264V424Z" fill="white"/>
+<path d="M232 456H248V472H232V456Z" fill="white"/>
+<path d="M264 456H280V472H264V456Z" fill="white"/>
+<path d="M328 152H456V168H328V152Z" fill="white"/>
+</svg>
