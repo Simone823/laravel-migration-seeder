@@ -49,6 +49,11 @@ body{
             border-radius: 10px;
             box-shadow: 0 0 15px rgba($color: $color-white, $alpha: 0.2);
 
+            &:hover {
+                transform: scale(0.97);
+                transition: all 300ms linear;
+            }
+
             .company {
                 margin-bottom: 25px;
                 text-align: center;
