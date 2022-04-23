@@ -1,0 +1,79 @@
+// Import font roboto
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+// Reset
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: 100%;
+    display: block;
+}
+
+// Variabili
+$color-black: #000000;
+$color-gray-dark: #282828;
+$color-white: white;
+$color-red: #d21f1b;
+// ----------------------------------------
+
+body{
+    background-color: $color-gray-dark;
+ 
+    .trains_wrapper {
+        color: $color-white;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 35px;
+        padding: 30px 15px;
+
+        h1 {
+            width: 100%;
+            text-align: center;
+            font-size: 45px;
+            color: $color-red;
+            margin-bottom: 20px;
+        }
+    
+        .train {
+            background-color: rgba($color: $color-black, $alpha: 0.78);
+            flex-basis: calc(100% / 4 - 28px);
+            min-width: 200px;
+            min-height: 300px;
+            padding: 25px 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba($color: $color-white, $alpha: 0.2);
+
+            .company {
+                margin-bottom: 25px;
+                text-align: center;
+            }
+            
+            img {
+                width: 20px;
+                display: inline-block;
+                margin-right: 5px;
+            }
+
+            p {
+                margin-bottom: 12px;
+                
+                span {
+                    margin-left: 10px;
+                }
+            }
+
+            .train_code span::before {
+                content: '#';
+                display: inline-block;
+            }
+        }
+    }
+}
+
+
